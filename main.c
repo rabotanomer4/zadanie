@@ -10,7 +10,7 @@ int main(int argc, char **argv)
     first[strlen(first)-1] = '\0'; /* remove the newline at the end */
 
 <<<<<<< HEAD
-    printf("Hello, %s!\n", name);
+    printf("Helloooo, %s!\n", name);
 =======
 
     gets(last); /* buffer overflow? what's that? */
